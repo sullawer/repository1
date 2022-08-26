@@ -1,0 +1,55 @@
+
+.pre-header {
+    background-color: #234d89  ; 
+    height: 40px; 
+    color: white; 
+    width:  100%;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 44px;
+    position: sticky; 
+    top: 0; 
+}
+
+.pre-header .social-media {
+    list-style: none;
+
+}
+.pre-header .social-media li {
+    margin-left:  12px; 
+    display: inline-block; 
+
+}
+
+.header {
+    position:sticky;
+    top:0;
+}
+
+img {
+    margin-left: 0px;
+}
+    
+.medium-header {
+    font size: 10px; 
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+
+
+.post-header {
+    background-color: #234d89 ; 
+    height: 57px;  
+    font-family: ROBOTO;
+    font-weight: 300;
+    color: white; 
+    position: sticky; 
+    top: 0; 
+    
+
+}
+
+
+
